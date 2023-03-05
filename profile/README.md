@@ -16,9 +16,9 @@ In addition, you can customize the styling with CSS and a specialized `chroma.co
 
 ## Usage
 
-> We'd recommend using our docs instead: [URL Coming Soon]
+> We'd recommend using [our docs](https://chromajs.github.io) instead.
 
-You can use Chroma through a CLI (recommended), Vite plugin, or static compiler:
+You can use Chroma through a CLI (recommended), Vite plugin, Rollup plugin, or static compiler:
 
 **CLI**
 ```shell
@@ -55,8 +55,13 @@ export default defineConfig({
 });
 ```
 
+**Rollup Plugin**
+
+[Coming Soon]
+
 **Static Compiler**
-[Instruction Coming Soon]
+
+[Coming Soon]
 
 ## About
 
