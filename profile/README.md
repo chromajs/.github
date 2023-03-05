@@ -4,7 +4,7 @@
 
 > Want to support us for free? Please follow & star our repos to help spread the word that we're here.
 
-Chroma is a ridiculously simple framework for integrating Markdown everywhere. You can use it with our own CLI, a vite plugin, and a static compiler and it will compile and markdown in your code to HTML:
+Chroma is a ridiculously simple framework for integrating Markdown everywhere, built on TypeScript & JavaScript. You can use it with our own CLI, a vite plugin, and a static compiler and it will compile and markdown in your code to HTML:
 
 ```js
 document.body.innerHTML = '<chroma># This is **markdown**</chroma>';
