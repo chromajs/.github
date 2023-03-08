@@ -22,7 +22,7 @@ You can use Chroma through a CLI (recommended), Vite plugin, Rollup plugin, or s
 
 **CLI**
 ```shell
-npm create chroma
+npm create @chromajs
 npm install
 npm run dev
 ```
@@ -31,7 +31,7 @@ npm run dev
 ```shell
 npm create vite
 npm install
-npm install vite-plugin-chroma
+npm install @chromajs/vite-plugin-chroma
 ```
 *Inside /vite.config.js*:
 
